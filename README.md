@@ -11,3 +11,4 @@ lehessen jelölni! A teendőkről lehessen pdf formátumban jelentést készíte
 zott időszakra!
 
 # Következmények:Rossz jegyeket kapunk!
+# Reméljük nem kapunk rossz jegyeket:)
